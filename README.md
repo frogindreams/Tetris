@@ -1,2 +1,0 @@
-# CheckResultsUSE
-Telegram bot
